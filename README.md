@@ -17,6 +17,16 @@ Mempromosikan pendidikan, mendorong inovasi, dan membangun komunitas.
 
 ----
 
+# SUMBER DAYA
+
+- [TENTANG](https://www.facebook.com/FacebookDevelopers/)
+- [BUAT IKLAN](https://www.facebook.com/ads/create)
+- [KARIER](https://www.facebook.com/careers)
+- [KEBIJAKAN PLATFORM](https://developers.facebook.com/policy/)
+- [KEBIJAKAN PRIVASI](https://www.facebook.com/about/privacy)
+- [COKIE](https://www.facebook.com/help/cookies)
+- [KETENTUAN](https://www.facebook.com/policies)
+
 # KODE
 
 ![.github/workflows/developers.yml](https://github.com/Buat-Halaman-Bisnis-Kamu/Facebook-Developer/workflows/.github/workflows/developers.yml/badge.svg)
