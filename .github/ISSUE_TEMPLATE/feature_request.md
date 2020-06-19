@@ -7,14 +7,15 @@ assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**Apakah permintaan fitur Anda terkait dengan masalah? Tolong jelaskan.** 
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+Deskripsi yang jelas dan ringkas tentang apa masalahnya. Ex. Saya selalu frustrasi ketika [...]
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+**Jelaskan solusi yang Anda inginkan**
+ Deskripsi yang jelas dan ringkas tentang apa yang Anda inginkan terjadi. 
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+**Jelaskan alternatif yang Anda pertimbangkan** 
+Deskripsi yang jelas dan ringkas dari segala solusi alternatif atau fitur yang telah Anda pertimbangkan. 
+
+**Konteks tambahan** 
+Tambahkan konteks atau tangkapan layar lainnya tentang permintaan fitur di sini.
