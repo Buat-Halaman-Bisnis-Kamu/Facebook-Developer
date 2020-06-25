@@ -6,7 +6,11 @@ Mempromosikan pendidikan, mendorong inovasi, dan membangun komunitas.
 - [Mendaftarkan Aplikasi Seluler Anda Untuk Iklan Aplikasi](https://developers.facebook.com/docs/app-ads/app-setup)
 - [Menerapkan SDK](https://developers.facebook.com/docs/app-ads/sdk-setup)
 - [Menyiapkan Peristiwa Aplikasi Anda](https://developers.facebook.com/docs/app-ads/app-event-setup)
-- [Menyiapkan Tautan Dalam Aplikasi Anda](https://developers.facebook.com/docs/app-ads/deep-linking)
+- [Menambahkan Tautan Dalam Iklan Aplikasi Anda](https://developers.facebook.com/docs/app-ads/deep-linking)
+- [Mengoptimalkan Iklan Aplikasi Anda](https://developers.facebook.com/docs/app-ads/optimizing-your-app-ad)
+- [Mengukur Iklan Aplikasi Anda](https://developers.facebook.com/docs/app-ads/measuring-your-app-ad)
+- [Membuat Aset](https://developers.facebook.com/docs/app-ads/creating-the-assets)
+
 
 # Untuk Memulai 
 
@@ -35,4 +39,4 @@ Mempromosikan pendidikan, mendorong inovasi, dan membangun komunitas.
 
 # KODE
 
-![.github/workflows/developers.yml](https://github.com/Buat-Halaman-Bisnis-Kamu/Facebook-Developer/workflows/.github/workflows/developers.yml/badge.svg)
+![.github/workflows/developers.yml](https://github.cocreating-the-assets))
