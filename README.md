@@ -4,6 +4,10 @@ Mempromosikan pendidikan, mendorong inovasi, dan membangun komunitas.
 
 # PANDUAN
 - [Mendaftarkan Aplikasi Seluler Anda Untuk Iklan Aplikasi](https://developers.facebook.com/docs/app-ads/app-setup)
+- [Menerapkan SDK](https://developers.facebook.com/docs/app-ads/sdk-setup)
+- [Menyiapkan Peristiwa Aplikasi Anda](https://developers.facebook.com/docs/app-ads/app-event-setup)
+- [Menyiapkan Tautan Dalam Aplikasi Anda](https://developers.facebook.com/docs/app-ads/deep-linking)
+
 # Untuk Memulai 
 
 - [PRODUK](https://developers.facebook.com/products/)
