@@ -1,10 +1,10 @@
 {
-  "name": "graph-api-webhooks-samples",
+  "name": "index.txt",
   "version": "0.1.0",
-  "description": "Graph API Webhooks Sample",
-  "main": "index.js",
+  "description": "readme.md",
+  "main": "Package.json",
   "scripts": {
-    "start": "node heroku/index.js"
+    "start": "index/index.txt"
   },
   "dependencies": {
     "body-parser": "~1.15.0",
