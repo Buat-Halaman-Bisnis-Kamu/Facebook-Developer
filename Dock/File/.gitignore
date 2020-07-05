@@ -1,0 +1,9 @@
+
+<script>
+document.getElementById('login-btn').onclick = function() {
+  FB.login(function(response) {
+    Log.info('FB.login response', response);
+  }, {asset_scope: 'pages_messaging'});
+  return false;
+}
+</script>
