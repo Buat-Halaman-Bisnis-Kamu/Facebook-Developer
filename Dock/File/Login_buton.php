@@ -1,27 +1,16 @@
-<h1>Requesting Business Asset Access Tokens</h1>
+<h1> Meminta Token Akses Aset Bisnis </h1> 
+<p> Anda dapat meminta Token Akses Aset Bisnis dari siapa saja yang menggunakan integrasi Login Facebook Anda. </p> 
 
-<p>You can request Business Asset Access Tokens from anyone using your Facebook Login integration.</p>
+<h2> Menggunakan FB.login () </h2> 
+<p> Contoh ini menambahkan beberapa izin tambahan ke fungsi login dasar yang ditunjukkan dalam contoh sebelumnya: </p>
+<a href="#"id="login-btn">Meminta Token Akses Aset Bisnis</a> 
 
-<h2>Using FB.login()</h2>
-<p>This example adds some additional permissions to the basic login function shown in an earlier example:</p>
+<script> document.getElementById ('login-btn'). onclick = function () { FB.login (fungsi (respons) { Log.info ('FB.login response', response); }, {asset_scope: 'pages_messaging'}); return false; } </script> 
 
-<a href="#" id="login-btn">Request Business Asset Access Token(s)</a>
+<h2> Menggunakan Tombol Masuk </h2> 
+<p> Anda juga dapat menggunakan<a href="https://developers.facebook.com/docs/plugins/login-button/">Plugin sosial Tombol Masuk</a>untuk meminta izin tambahan:</p> 
 
-<script>
-document.getElementById('login-btn').onclick = function() {
-  FB.login(function(response) {
-    Log.info('FB.login response', response);
-  }, {asset_scope: 'pages_messaging'});
-  return false;
-}
-</script>
+<div class = "fb-login-button" data-asset-scope ="pages_messaging"data-max-rows ="1"data-size ="medium"></div> 
 
-<h2>Using the Login Button</h2>
-
-<p>You can also use the <a href="https://developers.facebook.com/docs/plugins/login-button/">Login Button social plugin</a> to request additional permissions:</p>
-
-<div class="fb-login-button" data-asset-scope="pages_messaging" data-max-rows="1" data-size="medium"></div>
-
-<h3>Related Guides</h3>
-
-<p>Read <a href="https://developers.facebook.com/docs/facebook-login/login-flow-for-web/">our guide to using the JavaScript SDK for Facebook Login</a> to see the best way to use Facebook Login.</p>
+<h3> Panduan Terkait </h3> 
+<p>Baca<a href="https://developers.facebook.com/docs/facebook-login/login-flow-for-web/">panduan kami untuk menggunakan JavaScript SDK untuk Login Facebook</a>untuk lihat cara terbaik untuk menggunakan Login Facebook. </p>
