@@ -44,3 +44,7 @@ Mempromosikan pendidikan, mendorong inovasi, dan membangun komunitas.
 # Lihat Contoh Toko Kami
 
 [Toko Halaman Developed ](https://business.facebook.com/klikshop01/shop/?rt=19)
+
+# Ikuti Kami di INSTAGRAM
+
+[Pindai Kode Qhir](https://github.com/Buat-Halaman-Bisnis-Kamu/Facebook-Developer/blob/master/Dock/suplayergo9_nametag.png)
