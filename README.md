@@ -49,6 +49,6 @@ Mempromosikan pendidikan, mendorong inovasi, dan membangun komunitas.
 
 [Pindai Kode Qhir](https://github.com/Buat-Halaman-Bisnis-Kamu/Facebook-Developer/blob/master/Dock/suplayergo9_nametag.png)
 
-# IKUTI KAMI DI INSTAGRAM
+# katalog Busines
 
-[IKUTI](https://www.instagram.com/p/CC5bzOgJUFm/?utm_source=ig_web_button_share_sheet)
+[IKUTI](GET /v7.0/{business-id} HTTP/1.1)
