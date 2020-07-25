@@ -32,7 +32,7 @@ public class SAMPLE_CODE {
     String ad_account_id = "648024102411616";
     String app_secret = "b76cb2457ad8838ae628225882c0612c";
     String app_id = "794521401038177";
-    APIContext context = new APIContext(access_token).enableDebug(true);
+    APIContext context = new APIContext(EAALSnO3gFWEBAM0ZBN3T0QZAZCsRbF3xFRkiwsMcxYOYZBKmTNjPZCB4DGmrLt3VBbqpgOxu5qlfqUFkffIZBKlwmiWHBXd4Btk6bS2OHmoc5LXc5g0IM5zbZCkUSCLIZAzdCSN5u5wErghHShzr9NGQZA1eV2NSry6vKISe4meNChac3WFBzBjIg3ky5AkyADa8ZD).enableDebug(true);
 
     new AdAccount(ad_account_id, context).getInsights()
       .setTimeRange("{\"since\":\"2020-06-26\",\"until\":\"2020-07-26\"}")
