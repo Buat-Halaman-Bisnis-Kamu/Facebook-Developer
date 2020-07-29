@@ -28,7 +28,7 @@ Mempromosikan pendidikan, mendorong inovasi, dan membangun komunitas.
 ----
 
 # SUMBER DAYA
-
+- [BUAT APLIKASI UJI](https://developers.facebook.com/apps/794521401038177)
 - [TENTANG](https://www.facebook.com/FacebookDevelopers/)
 - [BUAT IKLAN](https://www.facebook.com/ads/create)
 - [KARIER](https://www.facebook.com/careers)
@@ -39,7 +39,7 @@ Mempromosikan pendidikan, mendorong inovasi, dan membangun komunitas.
 
 # KODE
 
-![github/workflows/developers.yml](https://github.cocreating-the-assets)
+[github/workflows/developers.yml](https://github.cocreating-the-assets)
 
 # Lihat Contoh Toko Kami
 
@@ -51,7 +51,7 @@ Mempromosikan pendidikan, mendorong inovasi, dan membangun komunitas.
 
 # katalog Busines
 
-[IKUTI](GET /v7.0/{business-id} HTTP/1.1)
+[IKUTI](/v7.0/business-id/HTTP/1.1)
 
 # Unduh Kode Sampel PHP
 
