@@ -28,7 +28,7 @@ Mempromosikan pendidikan, mendorong inovasi, dan membangun komunitas.
 ----
 
 # SUMBER DAYA
-- [BUAT APLIKASI UJI](https://developers.facebook.com/apps/794521401038177)
+- [BUAT APLIKASI UJI](https://developers.facebook.com/apps/794521401038177/dashboard/?business_id=2717039728418190)
 - [TENTANG](https://www.facebook.com/FacebookDevelopers/)
 - [BUAT IKLAN](https://www.facebook.com/ads/create)
 - [KARIER](https://www.facebook.com/careers)
