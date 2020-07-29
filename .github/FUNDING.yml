@@ -1,12 +1,5 @@
 # These are supported funding model platforms
 
-github: # Replace with up to 4 GitHub Sponsors-enabled usernames e.g., [@subolshop, fatidelfat@gmail.com]
-patreon: # Replace with a single Patreon username
-open_collective: # Replace with a single Open Collective username
-ko_fi: # Replace with a single Ko-fi username e.g., https://ko-fi/thyka
-tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel
-community_bridge: # Replace with a single Community Bridge project-name e.g., cloud-foundry
-liberapay: # Replace with a single Liberapay username
-issuehunt: # Replace with a single IssueHunt username
-otechie: # Replace with a single Otechie username
-custom: # Replace with up to 4 custom sponsorship URLs e.g., ['https://degeloper.facebook.com', 'https://facebook.com/klikshop01']
+github:  e.g., [@subolshop, fatidelfat@gmail.com]
+ko_fi:e.g., https://ko-fi/thyka
+custom:  e.g., ['https://degeloper.facebook.com', 'https://facebook.com/klikshop01']
