@@ -3,7 +3,7 @@ Mempromosikan pendidikan, mendorong inovasi, dan membangun komunitas.
  ![Img](https://github.com/Buat-Halaman-Bisnis-Kamu/Facebook-Developer/blob/master/Screenshot_2020-06-19-11-44-56.jpg)
 
 # MASUK FACEBOOK
-[KLIK DI SINI](https://m.facebook.com/login.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Fapps%2F572531576767979%2F&refsrc=https%3A%2F%2Fweb.facebook.com%2Flogin.php&_rdr)
+[KLIK DI SINI](https://npm.pkg.github.com/m.facebook.com/login.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Fapps%2F572531576767979%2F&refsrc=https%3A%2F%2Fweb.facebook.com%2Flogin.php&_rdr)
 
 # PANDUAN
 - [Mendaftarkan Aplikasi Seluler Anda Untuk Iklan Aplikasi](https://developers.facebook.com/docs/app-ads/app-setup)
