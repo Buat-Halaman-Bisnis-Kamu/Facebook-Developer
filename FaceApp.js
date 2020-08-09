@@ -1,6 +1,6 @@
 define(['facebook'], function(){
   FB.init({
-    appId      : '{your-app-id}',
+    appId      : '{701909577290417}',
     version    : 'v8.0'
   });
   FB.getLoginStatus(function(response) {
