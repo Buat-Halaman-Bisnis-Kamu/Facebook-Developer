@@ -1,0 +1,6 @@
+- project/
+   - index.html
+   - scripts/
+      - main.js
+      - require.js
+- fb.js
