@@ -60,3 +60,5 @@ Mempromosikan pendidikan, mendorong inovasi, dan membangun komunitas.
 
 [facebook-php-business-sdk]( https://github.com/facebook/facebook-php-business-sdk.git)
 [facebook-java-business-sdk](https://github.com/facebook/facebook-java-business-sdk.git)
+
+<div class="fb-page" data-href="https://www.facebook.com/klikshop01" data-tabs="timeline" data-width="120" data-height="60" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/klikshop01" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/klikshop01">Klik-Shop</a></blockquote></div>
