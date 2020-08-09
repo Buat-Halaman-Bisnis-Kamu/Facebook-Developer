@@ -1,0 +1,1 @@
+$ docker tag IMAGE_ID docker.pkg.github.com/buat-halaman-bisnis-kamu/repository-name/IMAGE_NAME:VERSION
