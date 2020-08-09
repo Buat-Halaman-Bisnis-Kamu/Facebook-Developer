@@ -1,0 +1,1 @@
+$ mvn deploy -Dregistry=https://maven.pkg.github.com/Buat-Halaman-Bisnis-Kamu -Dtoken=GH_TOKEN
